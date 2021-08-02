@@ -15,6 +15,6 @@ There is no additional configuration needed, but feel free to take a look to our
 
 ## Backoffice web
 
-You can access our web **backoffice** [**here**](https://sf-tdp2-webadmin.herokuapp.com/). Check out our [**user manuals**] if you need any help!
+You can access our web **backoffice** [**here**](https://sf-tdp2-webadmin.herokuapp.com/). Check out our [**user manuals**](manuals.html) if you need any help!
 
 <!-- ##################################################################### -->
