@@ -13,7 +13,7 @@ description: Crowdfunding application using React Native for mobile, React for w
 
 <!-- ##################################################################### -->
 
-# Screenshots
+# Take a look
 
 TODO
 

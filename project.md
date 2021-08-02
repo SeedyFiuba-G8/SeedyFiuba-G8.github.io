@@ -7,14 +7,15 @@ description: Administrative and development team details
 
 # Description
 
-TODO
+This platform was the integrating project of the subject [**Taller de Programación II**](https://taller-de-programacion-2.github.io/), in which we were challenged to make contact and integrate different [technologies](tech.html) that are used in the current Software Development industry in order to obtain a fully functional system.
 
 <!-- ##################################################################### -->
 
 # Details
 
--   **Subject:** Taller de Programación I
--   **Term and year:** 1°C 2021
+-   **Subject:** Taller de Programación II
+-   **Term:** First.
+-   **Year:** 2021.
 -   **Tutor:** Gonzalo Petraglia.
 
 ## Development team
