@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="assets/icon.ico">
+    <meta charset="UTF-8">
+
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+
+<body>
+    <header class="page-header" role="banner">
+        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">
+            {{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        
+        {% if site.github.is_project_page %}
+
+        <a href="index.html" class="btn">Home</a>
+        <a href="project.html" class="btn">Project</a>
+        <a href="install.html" class="btn">Install</a>
+        <a href="services.html" class="btn">Services</a>
+        <a href="apis.html" class="btn">REST APIs</a>
+        <a href="manuals.html" class="btn">User manuals</a>
+
+        {% endif %}
+    </header>
+
+    <main id="content" class="main-content" role="main">
+        {{ content }}
+
+        <footer class="site-footer">
+            {% if site.github.is_project_page %}
+            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">Seedy FIUBA</a> is maintained by <a href="https://github.com/mauro7x">Mauro Parafati</a>, <a href="https://github.com/nicomatex">Nicolás Aguerre</a>, <a href="https://github.com/sankle">Santiago Klein</a>, <a href="https://github.com/TaielC">Taiel Colavecchia</a> and
+                <a href="https://github.com/tonyhuang07">Yuhong Huang</a>.</span>
+            {% endif %}
+            <span class="site-footer-credits">Page generated using <a href="https://pages.github.com">GitHub
+                    Pages</a>.</span>
+        </footer>
+    </main>
+</body>
+
+</html>
