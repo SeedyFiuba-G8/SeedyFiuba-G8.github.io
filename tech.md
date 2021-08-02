@@ -54,8 +54,8 @@ Languages: **JavaScript**, **TypeScript**, **Solidity**.
 # Testing
 
 -   For services written in JavaScript:
--   [Jest](https://jestjs.io/).
--   [Supertest](https://www.npmjs.com/package/supertest).
+    -   [Jest](https://jestjs.io/).
+    -   [Supertest](https://www.npmjs.com/package/supertest).
 -   For services written in Python:
     -   [unittest](https://docs.python.org/3/library/unittest.html)
     -   [Coverage](https://coverage.readthedocs.io/en/coverage-5.5/)
