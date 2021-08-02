@@ -17,7 +17,7 @@ Languages: **JavaScript**, **TypeScript**.
     -   [Realtime Database](https://firebase.google.com/docs/database?hl=es-419).
     -   [Cloud Storage](https://firebase.google.com/docs/storage).
 
-# Back office web
+# Backoffice web
 
 Languages: **JavaScript**.
 
