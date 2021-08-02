@@ -36,9 +36,7 @@ description: Crowdfunding application using React Native for mobile, React for w
 ![](assets/screenshots/webadmin/4.png)
 ![](assets/screenshots/webadmin/5.png)
 ![](assets/screenshots/webadmin/6.png)
-
-<!-- ![](assets/screenshots/webadmin/7.png) -->
-
+![](assets/screenshots/webadmin/7.png)
 ![](assets/screenshots/webadmin/8.png)
 
 <!-- ##################################################################### -->
