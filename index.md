@@ -13,7 +13,7 @@ description: Crowdfunding application using React Native for mobile, React for w
 
 <!-- ##################################################################### -->
 
-# Take a look
+# Take a look!
 
 ## Mobile application
 
@@ -31,13 +31,9 @@ description: Crowdfunding application using React Native for mobile, React for w
 
 ![](assets/screenshots/webadmin/0.png)
 ![](assets/screenshots/webadmin/1.png)
-
-<!-- ![](assets/screenshots/webadmin/2.png) -->
-
+![](assets/screenshots/webadmin/2.png)
 ![](assets/screenshots/webadmin/3.png)
-
-<!-- ![](assets/screenshots/webadmin/4.png) -->
-
+![](assets/screenshots/webadmin/4.png)
 ![](assets/screenshots/webadmin/5.png)
 ![](assets/screenshots/webadmin/6.png)
 

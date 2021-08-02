@@ -58,7 +58,7 @@ Languages: **JavaScript**, **TypeScript**, **Solidity**.
     -   [Supertest](https://www.npmjs.com/package/supertest).
 -   For services written in Python:
     -   [unittest](https://docs.python.org/3/library/unittest.html)
-    -   [Coverage](https://coverage.readthedocs.io/en/coverage-5.5/)
+    -   [FastAPI TestClient](https://coverage.readthedocs.io/en/coverage-5.5/)
 -   [Codecov](https://about.codecov.io/).
 
 # Monitoring and Logging
