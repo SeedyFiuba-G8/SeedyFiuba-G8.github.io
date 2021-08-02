@@ -30,7 +30,7 @@ This platform was the integrating project of the subject [**Taller de Programaci
 
 <!-- ##################################################################### -->
 
-# Project Log
+# Team Organization
 
 TODO
 

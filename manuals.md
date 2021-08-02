@@ -5,7 +5,9 @@ description: Mobile app and Web Office user manuals
 
 <!-- ##################################################################### -->
 
--   Mobile application user manual is available, click [_here_]() to download it!
--   Backoffice web user manual is available, click [_here_]() to download it!
+# User Manuals
+
+-   Mobile application user manual is available, click [**here**](assets/manuals/mobile.pdf) to download it!
+-   Backoffice web user manual is available, click [**here**](assets/manuals/backoffice.pdf) to download it!
 
 <!-- ##################################################################### -->
