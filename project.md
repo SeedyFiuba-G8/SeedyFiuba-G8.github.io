@@ -52,8 +52,30 @@ We are very happy with the final division of the project, as we all felt that we
 
 <!-- ##################################################################### -->
 
-# Post-mortem
+# Post-mortem analysis
 
-TODO
+## Dates
+
+-   **04/15/2021:** Project started.
+-   **04/22/2021:** Checkpoint 0.
+-   **05/13/2021:** Checkpoint 1.
+-   **06/10/2021:** Checkpoint 2.
+-   **07/08/2021:** Checkpoint 3.
+-   **07/29/2021:** Partial project presentation.
+-   **08/02/2021:** Final project presentation.
+
+## Team feedback
+
+-   **Mauro Parafati**: _"Personally, I found many opportunities to learn from this assignment, both personally and professionally/academically. I got to know many new technologies that were of interest to me, I had a great space to develop my curiosity in certain areas, as well as I was trained in Team Software Development through the implementation of agile work methodologies along with my teammates. I am very happy with the results obtained!"_
+-   **Nicolas Aguerre**: _"Even though things can always be improved, I feel like we've come to a point where we are satisfied with our product. All of its functionalities work, and they are enough for it to work as an actual crowdfunding platform."_
+-   **Santiago Klein**: _"The realization of this project was essential to learn and use cutting edge technologies and practices that are crucial for a software engineer to master. Even though we would like to enhance some features of our project, we are proud to have covered basic functionality by exploring a wide range of technologies."_
+-   **Taiel Colavecchia**: _"This was a great and challenging experience for the group. Even though the organization (mainly, at the beginning) was poor, with hard work and learning about the new technologies we accomplished a great startup funding application that is based on a decentralized currency."_
+-   **Yuhong Huang**: _"It has been a pleasure to work with my teammates, during this experience we learned things that we haven't seen before, we orgnizaed and solved problems together, although many things could be improved, I think we achieved something quite significant."_
+
+## Results obtained
+
+We are really happy with the results obtained, again, given the complexity and extent of the work. We believe that many improvements could be made, but it would take more time and greater time availability by the development team, since this work was carried out in parallel with different subjects and the personal work of each of the members, making it impossible to dedicate a longer time for the results to be ideal.
+
+In any case, we believe that **the objective was achieved**, **learning a lot** and achieving a **functional and complete final product**.
 
 <!-- ##################################################################### -->
