@@ -5,9 +5,9 @@ description: Crowdfunding application using React Native for mobile, React for w
 
 <!-- ##################################################################### -->
 
-# Description
+![logo](assets/logo.png)
 
-TODO
+**Seedy FIUBA** is a [_crowdfunding platform_](https://en.wikipedia.org/wiki/Crowdfunding) in which you can fulfill different roles: **seek support** to fulfill your dream project, **review and moderate** the progress of other projects, as well as **fund and support** existing projects.
 
 <!-- ##################################################################### -->
 
