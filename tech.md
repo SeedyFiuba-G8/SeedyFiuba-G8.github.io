@@ -21,7 +21,6 @@ Languages: **JavaScript**, **TypeScript**.
 
 Languages: **JavaScript**.
 
--   [Heroku](https://heroku.com/).
 -   [React](https://reactjs.org/).
 -   [Redux](https://redux.js.org/).
 -   [Material UI](https://material-ui.com/).
@@ -30,7 +29,6 @@ Languages: **JavaScript**.
 
 Languajes: **JavaScript**, **Python**.
 
--   [Heroku](https://heroku.com/).
 -   [Node.js](https://nodejs.org/).
 -   [Express.js](https://expressjs.com/) (for services written in JavaScript).
 -   [FastAPI](https://fastapi.tiangolo.com/) (for services written in Python).
@@ -48,10 +46,19 @@ Languages: **JavaScript**, **TypeScript**, **Solidity**.
 -   [Ethers](https://docs.ethers.io/v5/).
 -   [Kovan](https://kovan-testnet.github.io/website/).
 
+# Deployment and CI-CD
+
+-   [Heroku](https://heroku.com/).
+-   [GitHub Actions](https://github.com/features/actions).
+
 # Testing
 
+-   For services written in JavaScript:
 -   [Jest](https://jestjs.io/).
 -   [Supertest](https://www.npmjs.com/package/supertest).
+-   For services written in Python:
+    -   [unittest](https://docs.python.org/3/library/unittest.html)
+    -   [Coverage](https://coverage.readthedocs.io/en/coverage-5.5/)
 -   [Codecov](https://about.codecov.io/).
 
 # Monitoring and Logging
