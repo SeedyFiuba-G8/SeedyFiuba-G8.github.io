@@ -1,5 +1,5 @@
 ---
-title: Install
+title: Installation
 description: Installation and configuration process guide
 ---
 
