@@ -50,10 +50,6 @@ In any case, throughout the project all members were able to **contribute their 
 
 We are very happy with the final division of the project, as we all felt that we learned **a lot** about things that interest us in depth.
 
-<!-- ##################################################################### -->
-
-# Post-mortem analysis
-
 ## Dates
 
 -   **04/15/2021:** Project started.
@@ -77,5 +73,11 @@ We are very happy with the final division of the project, as we all felt that we
 We are really happy with the results obtained, again, given the complexity and extent of the work. We believe that many improvements could be made, but it would take more time and greater time availability by the development team, since this work was carried out in parallel with different subjects and the personal work of each of the members, making it impossible to dedicate a longer time for the results to be ideal.
 
 In any case, we believe that **the objective was achieved**, **learning a lot** and achieving a **functional and complete final product**.
+
+<!-- ##################################################################### -->
+
+# Post-mortem analysis
+
+here @santimdq
 
 <!-- ##################################################################### -->
